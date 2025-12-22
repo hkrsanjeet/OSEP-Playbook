@@ -46,8 +46,8 @@ const config = {
       {
         hashed: true,
         language: ['en'],
-        highlightSearchTermsOnTargetPage: true,
-        explicitSearchResultPath: true,
+        highlightSearchTermsOnTargetPage: false,
+        explicitSearchResultPath: false,
       },
     ],
   ],
